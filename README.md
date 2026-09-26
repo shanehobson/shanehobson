@@ -36,10 +36,10 @@ Also on [Medium](https://medium.com/@shanehobson1).
 
 #### Tools I use
 
-**Languages & frontend:** TypeScript, JavaScript, React, Angular, Next.js, Astro, Redux, Tailwind CSS, SCSS
-**Backend & data:** Node.js, NestJS, Express, GraphQL, PostgreSQL, DynamoDB
-**Cloud:** AWS (Lambda, CDK, API Gateway, S3, CloudFront, Cognito)
-**Testing:** Jest, Playwright
+- **Languages & frontend:** TypeScript, JavaScript, React, Angular, Next.js, Astro, Redux, Tailwind CSS, SCSS
+- **Backend & data:** Node.js, NestJS, Express, GraphQL, PostgreSQL, DynamoDB
+- **Cloud:** AWS (Lambda, CDK, API Gateway, S3, CloudFront, Cognito)
+- **Testing:** Jest, Playwright
 
 **Certifications:** AWS Certified Solutions Architect · AWS Certified Cloud Practitioner
 
