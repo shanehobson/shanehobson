@@ -14,8 +14,8 @@ I like understanding how the tools I use actually work (browsers, frameworks, di
 |---|---|---|
 | **[Stella](https://github.com/stella/stella)** | Open-source legal workspace: matters, documents, tabular review, research, and an AI agent with source-traced answers. I'm one of the project's top contributors. | TypeScript · TanStack Start · Bun · PostgreSQL · Redis |
 | **[Zaera](https://zaera.io/)** | Multi-tenant SaaS for scheduling and payments for service businesses: branded booking, team scheduling with double-booking prevention, Stripe payments. | React · NestJS · PostgreSQL · Stripe · AWS |
-| **[Odyssey](https://www.findmyodyssey.com)** | AI travel planner that turns a prompt into a day-by-day itinerary, with streaming responses and usage-aware tiered plans. | React · TanStack Query · AWS Lambda · DynamoDB |
-| **Vault** | Upload and cloud storage for photos and videos from any device. | React · Cognito · API Gateway · Lambda · DynamoDB · S3 |
+| **[Odyssey](https://github.com/shanehobson/odyssey)** | AI travel planner that turns a prompt into a day-by-day itinerary, with streaming responses and usage-aware tiered plans. Live at [findmyodyssey.com](https://www.findmyodyssey.com). | React · TanStack Query · AWS Lambda · DynamoDB |
+| **[Vault](https://github.com/shanehobson/vault)** | Private photo and video cloud with direct-to-S3 uploads and a capture-date timeline built for tens of thousands of items. | React · Cognito · API Gateway · Lambda · DynamoDB · S3 |
 | **[research-reader](https://github.com/shanehobson/research-reader)** | CLI + Claude Code skill that compiles docs, repos, papers, and blogs into concept-organized research EPUBs. | Python · Claude Code |
 | **[Homak Design & Development](https://github.com/shanehobson/Homak-Design-Development)** | Studio site built with zero client framework (~14 KB gzipped). | Astro · TypeScript |
 
