@@ -1,10 +1,10 @@
 ### Hi, I'm Shane 👋
 
-I'm a software engineer with a decade of experience building applications for the web: frontend, backend, cloud infrastructure, and AI engineering. I currently consult for a Fortune 100 media company, helping build an advertising platform that manages more than a billion dollars in annual ad revenue.
+I'm a software engineer with a decade of experience building applications for the web. My work spans frontend engineering, backend engineering, and cloud infrastructure. I currently consult for a Fortune 100 media company, where I'm helping build an advertising platform responsible for managing more than a billion dollars in annual ad revenue. My work focuses on building complex, data-intensive applications and making them fast, scalable, and intuitive.
 
-Before software, I spent three years as a litigation and trial attorney, and I'm still a licensed lawyer. That makes me especially interested in legal technology and legal AI. I'm one of the top contributors to [Stella](https://github.com/stella/stella), an open-source legal workspace.
+I took an unconventional path into software engineering. Before this, I went to law school and spent three years as a litigation and trial attorney. I remain a licensed attorney, and I'm especially interested in the intersection of law and technology and in how software and AI can be used to solve problems in the legal industry. I regularly contribute to open source legal technology and legal AI projects, and I'm one of the top contributors to [Stella](https://github.com/stella/stella), an open-source legal workspace.
 
-I like understanding how the tools I use actually work (browsers, frameworks, distributed systems, LLMs) and writing about them in plain terms.
+Outside of work, I build software, experiment with new technologies, and write about software engineering and AI. I'm particularly interested in understanding how the technologies I use actually work — from web browsers and distributed systems to large language models — and explaining those ideas in approachable terms.
 
 ---
 
