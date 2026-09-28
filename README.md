@@ -4,7 +4,7 @@ I'm a software engineer with a decade of experience building applications for th
 
 I took an unconventional path into software engineering. Before this, I went to law school and spent three years as a litigation and trial attorney. I remain a licensed attorney, and I'm especially interested in the intersection of law and technology and in how software and AI can be used to solve problems in the legal industry. I regularly contribute to open source legal technology and legal AI projects, and I'm one of the top contributors to [Stella](https://github.com/stella/stella), an open-source legal workspace.
 
-Outside of work, I build software, experiment with new technologies, and write about software engineering and AI. I'm particularly interested in understanding how the technologies I use actually work — from web browsers and distributed systems to large language models — and explaining those ideas in approachable terms.
+Outside of work, I build software, experiment with new technologies, and write about software engineering and AI. I'm particularly interested in understanding how the technologies I use actually work — from web browsers and distributed systems to large language models — and explaining those ideas in approachable terms. You can find links to my writing below.
 
 ---
 
