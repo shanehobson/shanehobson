@@ -1,6 +1,6 @@
 ### Hi, I'm Shane 👋
 
-I'm a software engineer with a decade of experience building applications for the web. My work spans frontend engineering, backend engineering, cloud infrastructure, and AI engineering. I currently consult for a Fortune 100 media company, where I'm helping build an advertising platform responsible for managing more than a billion dollars in annual ad revenue. My work focuses on building complex, data-intensive applications and making them fast, scalable, and intuitive.
+I'm a software engineer with a decade of experience building applications for the web. My work spans frontend engineering, backend engineering, cloud infrastructure, and AI engineering. I currently consult for a Fortune 100 media company, where I'm helping build an advertising platform responsible for managing more than a billion dollars in annual ad revenue. My work focuses on solving complex, business-critical problems with intuitive software solutions.
 
 Prior to getting into software, I went to law school and spent three years as a litigation and trial attorney. I remain a licensed attorney, and I'm especially interested in the intersection of law and technology and in how software and AI can be used to solve problems in the legal industry. I regularly contribute to open source legal technology and legal AI projects, and I'm one of the top contributors to [Stella](https://github.com/stella/stella), an open-source legal workspace.
 
